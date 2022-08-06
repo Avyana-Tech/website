@@ -1,4 +1,4 @@
-/* Generated on: Fri Aug 05 2022 17:05:26 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Aug 06 2022 18:15:47 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2805,8 +2805,8 @@ textarea.w-input, textarea.w-select {
 }
 
 .div-block-6 {
-  padding-top: 150px;
-  padding-bottom: 150px;
+  padding-top: 220px;
+  padding-bottom: 0px;
   background-color: rgba(255, 48, 0, 0.88);
 }
 
@@ -2862,6 +2862,13 @@ textarea.w-input, textarea.w-select {
   min-height: 5px;
   background-color: #000;
   line-height: 5px;
+}
+
+.text-block-6 {
+  font-family: 'Lexend Mega', sans-serif;
+  font-size: 50px;
+  line-height: 45px;
+  letter-spacing: 10px;
 }
 
 @media screen and (max-width: 991px) {
