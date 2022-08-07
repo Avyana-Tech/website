@@ -1,4 +1,4 @@
-/* Generated on: Sat Aug 06 2022 18:15:47 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Aug 07 2022 05:05:58 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2874,6 +2874,69 @@ textarea.w-input, textarea.w-select {
 @media screen and (max-width: 991px) {
   .brand-3 {
       background-color: #fff;
+  }
+
+  .column-2 {
+      background-image: none;
+      background-position: 0px 0px;
+      background-size: auto;
+      background-repeat: repeat;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .div-block {
+      margin-top: 77px;
+      margin-bottom: 77px;
+  }
+
+  .text-block-3 {
+      padding-left: 40px;
+  }
+
+  .text-block-4 {
+      padding-left: 40px;
+  }
+
+  .div-block-7 {
+      display: none;
+      overflow: hidden;
+  }
+
+  .div-block-8 {
+      display: none;
+  }
+
+  .text-block-5 {
+      display: none;
+  }
+
+  .column-9 {
+      display: none;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .heading {
+      font-size: 100px;
+  }
+
+  .div-block {
+      margin-top: 53px;
+      margin-bottom: 53px;
+  }
+
+  .text-block-3 {
+      padding-left: 40px;
+  }
+
+  .text-block-4 {
+      padding-left: 40px;
+  }
+
+  .column-9 {
+      display: none;
+      overflow: auto;
   }
 }
 
