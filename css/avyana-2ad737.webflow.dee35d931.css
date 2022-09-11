@@ -1,4 +1,4 @@
-/* Generated on: Sun Aug 07 2022 05:05:58 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Sep 11 2022 12:59:29 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2290,7 +2290,7 @@ textarea.w-input, textarea.w-select {
   overflow: visible;
   padding-bottom: 0px;
   border: 1px none #000;
-  background-image: url("assets/Banner_BG_Transparent.png");
+  background-image: url("https://uploads-ssl.webflow.com/62eba1bc07585499ac8060e7/62ebab60e6cb3c1874b58f84_AVYANA-1%20copy.png");
   background-position: 50% 50%;
   background-size: 150px 150px;
   background-repeat: no-repeat;
@@ -2307,14 +2307,14 @@ textarea.w-input, textarea.w-select {
   border-style: solid;
   border-width: 1px;
   border-color: #000;
-  background-image: url("assets/Banner_BG_Transparent.png");
+  background-image: url("https://uploads-ssl.webflow.com/62eba1bc07585499ac8060e7/62ebab60e6cb3c1874b58f84_AVYANA-1%20copy.png");
   background-position: 50% 50%;
   background-size: 150px 150px;
 }
 
 .brand-3 {
   background-color: transparent;
-  background-image: url("assets/Banner_BG_Transparent.png");
+  background-image: url("https://uploads-ssl.webflow.com/62eba1bc07585499ac8060e7/62ebab60e6cb3c1874b58f84_AVYANA-1%20copy.png");
   background-position: 50% 50%;
   background-size: 150px 150px;
   background-clip: border-box;
@@ -2657,7 +2657,7 @@ textarea.w-input, textarea.w-select {
   margin-left: 10px;
   font-family: 'Lexend Mega', sans-serif;
   color: #000;
-  font-size: 180px;
+  font-size: 220px;
   line-height: 180px;
 }
 
@@ -2709,7 +2709,7 @@ textarea.w-input, textarea.w-select {
   padding-right: 0px;
   padding-left: 0px;
   background-image: url("https://uploads-ssl.webflow.com/62eba1bc07585499ac8060e7/62ed27c43da29e761dfbe993_AVYANA_BG_TRANSPARENT%20copy.png");
-  background-position: 50% 35%;
+  background-position: 50% 50%;
   background-size: auto;
   background-repeat: no-repeat;
 }
@@ -2790,7 +2790,10 @@ textarea.w-input, textarea.w-select {
 .text-block-4 {
   font-family: 'Lexend Mega', sans-serif;
   font-size: 16px;
-  letter-spacing: 10px;
+  font-weight: 400;
+  text-align: left;
+  letter-spacing: 8px;
+  text-transform: uppercase;
 }
 
 .div-block-4 {
