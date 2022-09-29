@@ -1,4 +1,4 @@
-/* Generated on: Wed Sep 14 2022 06:29:52 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Sep 29 2022 07:38:48 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2577,11 +2577,11 @@ textarea.w-input, textarea.w-select {
   font-weight: 400;
 }
 
-.nav-link-4 {
+.nav-link-6 {
   font-family: Lato, sans-serif;
 }
 
-.nav-link-5 {
+.nav-link-7 {
   font-family: Lato, sans-serif;
 }
 
@@ -2808,7 +2808,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .div-block-6 {
-  padding-top: 220px;
+  padding-top: 204px;
   padding-bottom: 0px;
   background-color: rgba(255, 48, 0, 0.88);
 }
@@ -2909,6 +2909,20 @@ textarea.w-input, textarea.w-select {
   letter-spacing: 10px;
 }
 
+.nav-link-4 {
+  position: relative;
+  padding: 20px;
+  font-family: Lato, sans-serif;
+}
+
+.text-block-8 {
+  padding-left: 20px;
+  letter-spacing: 10px;
+  -webkit-column-count: auto;
+  column-count: auto;
+  white-space: normal;
+}
+
 @media screen and (max-width: 991px) {
   .brand-3 {
       background-color: #fff;
@@ -2919,6 +2933,10 @@ textarea.w-input, textarea.w-select {
       background-position: 0px 0px;
       background-size: auto;
       background-repeat: repeat;
+  }
+
+  .div-block-6 {
+      padding-top: 200px;
   }
 }
 
